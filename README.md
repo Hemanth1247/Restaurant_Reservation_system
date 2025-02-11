@@ -1,7 +1,3 @@
-Here’s a **README.md** file focusing only on the **Restaurant Reservation System** application:  
-
----
-
 # **Restaurant Reservation System**  
 
 This is a **React-based Restaurant Reservation System** that allows customers to book tables, track available seats, and manage check-in/check-out seamlessly.  
